@@ -13,3 +13,5 @@ pytesseract  # optional for OCR (requires tesseract installed on system)
 pdf2pptx==1.0.5
 
 
+Werkzeug==3.0.2
+gunicorn==23.0.0
